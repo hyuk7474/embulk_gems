@@ -1,0 +1,10 @@
+*~
+/pkg/
+/tmp/
+/.bundle/
+/Gemfile.lock
+vendor/
+.ruby-version
+.tags
+your-project-000.json
+embulk.jar

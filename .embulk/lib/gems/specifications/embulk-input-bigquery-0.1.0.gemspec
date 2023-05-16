@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
   s.authors = ["potato2003".freeze, "Naotoshi Seo".freeze, "Takeru Narita".freeze]
-  s.date = "2023-05-11"
+  s.date = "2022-10-08"
   s.description = "embulk input plugin from bigquery.".freeze
   s.email = ["potato2003@gmail.com".freeze, "sonots@gmail.com".freeze, "naritano77@gmail.com".freeze]
   s.homepage = "https://github.com/medjed/embulk-input-bigquery".freeze
